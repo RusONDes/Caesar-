@@ -1,0 +1,11 @@
+E:\чето\зашифровка\зашифровка\obj\Debug\зашифровка.csproj.AssemblyReference.cache
+E:\чето\зашифровка\зашифровка\obj\Debug\зашифровка.csproj.SuggestedBindingRedirects.cache
+E:\чето\зашифровка\зашифровка\obj\Debug\зашифровка.Form1.resources
+E:\чето\зашифровка\зашифровка\obj\Debug\зашифровка.Properties.Resources.resources
+E:\чето\зашифровка\зашифровка\obj\Debug\зашифровка.csproj.GenerateResource.cache
+E:\чето\зашифровка\зашифровка\obj\Debug\зашифровка.csproj.CoreCompileInputs.cache
+E:\чето\зашифровка\зашифровка\bin\Debug\зашифровка.exe.config
+E:\чето\зашифровка\зашифровка\bin\Debug\зашифровка.exe
+E:\чето\зашифровка\зашифровка\bin\Debug\зашифровка.pdb
+E:\чето\зашифровка\зашифровка\obj\Debug\зашифровка.exe
+E:\чето\зашифровка\зашифровка\obj\Debug\зашифровка.pdb
